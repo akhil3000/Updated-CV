@@ -1,0 +1,112 @@
+.Topcontainer{
+  height:200px;
+  width:200px;
+  border:10px;
+  padding:0px;
+  position:relative;
+  left:300px;
+  bottom:10px;
+}
+
+#.Middlecontainer{
+  background-color: violet;
+  height:200px;
+  width:200px;
+  border:20px;
+  padding:0px;
+  margin-left:200px;
+}
+
+#.Bottomcontainer{
+  background-color:green;
+  height:200px;
+  width:200px;
+  padding:0px;
+  border:10px;
+  margin-left:400px;
+}
+.Hello{
+  background-color: blue;
+}
+h1{
+position:relative;
+left:200px;
+font-family: 'Sacramento', cursive;
+font-size:2.5rem;
+color:#66BFBF;
+}
+
+h3{
+  position:relative;
+  color:#11999E;
+}
+.bottomcloud
+{
+  postion:relative;
+  left:100px;
+  bottom:100px;
+}
+.topcloud{
+  position:relative;
+  left:400px;
+}
+.Mountain
+{
+  position:relative;
+  left:350px;
+  width:40%;
+}
+.profile{
+  position:relative;
+  left:550px;
+  font-family:serif;
+}
+.bio{
+  position:relative;
+  left:200px;
+}
+h2{
+  position:relative;
+  color:#66BFBF;
+}
+.skills{
+  position:relative;
+  left:550px;
+  font-family:serif;
+}
+#.skill-row{
+  position:relative;
+  left:100px;
+  font-family:serif;
+}
+.contact-me{
+  position:relative;
+  left:550px;
+  font-family:serif;
+}
+.bottom-container{
+  position:relative;
+  left:550px;
+  font-family:serif;
+}
+a{
+  color:#11999E;
+}
+.akhil{
+  width:15%;
+  position:relative;
+}
+.web{
+  width:12%;
+  position:relative;
+  float:left
+  margin-right:30px;
+}
+#.java{
+  width:8%;
+  float:left;
+  margin-right:10px;
+}
+.hr{
+  border:dotted #EAF6F6 6px;
+}
